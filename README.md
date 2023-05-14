@@ -12,32 +12,10 @@ The different objects used in the program are as follows-
 - Toolbar – the statistics of the game throughout playing and the setting are set here
 - Question – the pop up questions that occur during the game are set and kept here
 
-The player, enemies and their shots are all types of moving objects. Likewise, the fire, hydrants, station and both types of walls (breakable and not) are static objects. They all are types of game objects.
-Files Added by us:
-- "Controller.h", "Controller.cpp"- controls the game in almost all aspects
-- "Menu.h","Menu.cpp" - the settings and movement for the menu
-- "GameObject.h", " GameObject.cpp" – all objects come from here
-- "StaticObject.h", "StaticObject.cpp" – all immobile objects come from here
-- "MovingObject.h", "MovingObject.cpp" - all mobile objects come from here
-- "ShootObject.h", "ShootObject.cpp" - all shootable objects come from here
-- "WaterShoot.h", "WaterShoot.cpp"  - the water shots to kill the fire enemy or fires
-- "FireShoot.h", "FireShoot.cpp" – the fire shots to kill the player
-- "Question.h", "Question.cpp" – the process of dealing with the questions
-- "Board.h", "Board.cpp" – all relevant board functionalities
-- "Player.h", "Player.cpp" – the player of the game and his movements
-- "CollisionObjects.h", "CollisionObjects.cpp" – instances of all objects possible collisions
-- "Hydrant.h", "Hydrant.cpp" – refillable station for the water shooter
-- "Fire.h", "Fire.cpp" – plain flaming fire
-- "FireEnemy.h", "FireEnemy.cpp" – smart enemy chasers
-- "Enemy.h", "Enemy.cpp" – all enemy types come from here
-- "Corona.h", "Corona.cpp" – 2 way directional enemy
-- "Wall.h", " Wall.h" – unbreakable wall
-- "FireStation.h", "FireStation.cpp" – the way to finish the level 
-- "Toolbar.h", "Toolbar.cpp" – all toolbar stats
-- "WoodWall.h", "WoodWall.cpp" – breakable wall
-- "AlcogelShoot.h", " AlcogelShoot.cpp" – alcogel shot to kill the corona
-- "SingleLoatData.h", "SingleLoatData.h" – singleton resource
 #### Data Structures Used:
-Vectors, lists, map and basic array
+1. Vectors
+2. lists
+3. map 
+4. basic array
 ##### Algorithms Worth Mentioning:
-The fire enemy tracks where the player is located and moves towards him by determining which direction is not blocked, if his path is blocked, he paces back and forth until he finds a direction that he can go
+If his path is obstructed, the fire adversary paces back and forth until he finds a direction that he can walk. The fire enemy tracks where the player is and moves towards him.
