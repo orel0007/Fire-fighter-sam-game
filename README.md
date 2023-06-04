@@ -23,4 +23,4 @@ If his path is obstructed, the fire adversary paces back and forth until he find
 
 
 
-[![FIREMAN SAME VIDEO](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME"](https://www.youtube.com/watch?v=6Oi7IAm6iFk))
+[FIREMAN SAME VIDEO](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME"](https://www.youtube.com/watch?v=6Oi7IAm6iFk))
