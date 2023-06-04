@@ -19,3 +19,4 @@ The different objects used in the program are as follows-
 4. basic array
 ##### Algorithms Worth Mentioning:
 If his path is obstructed, the fire adversary paces back and forth until he finds a direction that he can walk. The fire enemy tracks where the player is and moves towards him.
+[![FIREMAN SAME VIDEO](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME"](https://www.youtube.com/watch?v=6Oi7IAm6iFk))
